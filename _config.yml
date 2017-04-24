@@ -61,5 +61,5 @@ theme: landscape
 deploy: 
   type: git
   #elfwalk改为你的github用户名
-  repository: https://github.com/yuanxiaosi/vicky.github.io.git
+  repository: https://github.com/yuanxiaosi/blog.git
   branch: master
